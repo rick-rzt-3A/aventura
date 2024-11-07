@@ -1,0 +1,31 @@
+body {
+   background-color: aquamarine;
+   color:black;
+font-family: "Dancing Script", cursive;
+font-weight: bold;
+font-size: 26px;
+display:flex;
+justify-content: center;
+align-items: center;
+height: 700PX;
+margin: 0;
+}
+
+button {
+    background-color: darksalmon; rgb(145, 108, 108);
+    color: white;
+    font-family: "Reddit Sans Condensed", sans-serif;
+}
+
+.passo {
+    display:nome;
+}
+
+.passo {
+    display:block;
+}
+
+main {
+text-align: center;
+max-width: 90%;
+}
